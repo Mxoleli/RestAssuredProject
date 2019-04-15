@@ -21,7 +21,7 @@ public class ValidateStatusCode {
 		Response response = httpRequest.request(Method.GET,"/Hyderabad");
 		
 		int statusCode = response.statusCode();
-		System.out.println("The Status Code is: =>"+ statusCode);
+		System.out.println("The Status Code is: => "+ statusCode);
 	}
 	
 	
