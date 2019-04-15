@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2969" started-at="2019-04-15T12:50:45Z" finished-at="2019-04-15T12:50:48Z">
+  <suite name="Default suite" duration-ms="2577" started-at="2019-04-15T13:04:20Z" finished-at="2019-04-15T13:04:22Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2969" started-at="2019-04-15T12:50:45Z" finished-at="2019-04-15T12:50:48Z">
-      <class name="apitesting.SimplGetTest">
-        <test-method status="PASS" signature="GetWeatherDetails()[pri:0, instance:apitesting.SimplGetTest@2a2d45ba]" name="GetWeatherDetails" duration-ms="2957" started-at="2019-04-15T14:50:45Z" finished-at="2019-04-15T14:50:48Z">
+    <test name="Default test" duration-ms="2577" started-at="2019-04-15T13:04:20Z" finished-at="2019-04-15T13:04:22Z">
+      <class name="apitesting.ValidateStatusCode">
+        <test-method status="PASS" signature="GetStatusCode()[pri:0, instance:apitesting.ValidateStatusCode@2a2d45ba]" name="GetStatusCode" duration-ms="2565" started-at="2019-04-15T15:04:20Z" finished-at="2019-04-15T15:04:22Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- GetWeatherDetails -->
-      </class> <!-- apitesting.SimplGetTest -->
+        </test-method> <!-- GetStatusCode -->
+      </class> <!-- apitesting.ValidateStatusCode -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
