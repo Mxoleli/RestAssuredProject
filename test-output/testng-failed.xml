@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="apitesting.ValidateBody">
+      <class name="apitesting.ValidateJasonData">
         <methods>
-          <include name="GetValidateBody"/>
+          <include name="validatejsonData"/>
         </methods>
-      </class> <!-- apitesting.ValidateBody -->
+      </class> <!-- apitesting.ValidateJasonData -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
